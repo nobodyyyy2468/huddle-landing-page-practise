@@ -10,4 +10,4 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
